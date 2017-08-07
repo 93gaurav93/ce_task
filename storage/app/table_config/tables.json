@@ -1,0 +1,9 @@
+{
+  "candidates": {
+    "modelName": "Candidate",
+    "searchableColumnName": "name",
+    "pageTitle": "Candidate",
+    "recordsUserFilter": true,
+    "userLevel": 1
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": {
+    "title": "Name",
+    "formType": "text",
+    "showType": "text",
+    "showInForm": true,
+    "showInIndex": true,
+    "showInView": true,
+    "requiredInForm": true,
+    "widthInForm": null,
+    "displayRule": null,
+    "textAreaRows": null,
+    "indexClasses": "exportable w_200",
+    "backRules": "",
+    "frontRules": ""
+  },
+  "email": {
+    "title": "Email",
+    "formType": "email",
+    "showType": "text",
+    "showInForm": true,
+    "showInIndex": true,
+    "showInView": true,
+    "requiredInForm": false,
+    "widthInForm": null,
+    "displayRule": null,
+    "textAreaRows": null,
+    "indexClasses": "exportable",
+    "backRules": "",
+    "frontRules": ""
+  },
+  "url": {
+    "title": "Web Address",
+    "formType": "textArea",
+    "showType": "url",
+    "showInForm": true,
+    "showInIndex": true,
+    "showInView": true,
+    "requiredInForm": false,
+    "widthInForm": null,
+    "displayRule": null,
+    "textAreaRows": 2,
+    "indexClasses": "no_orderable",
+    "backRules": "",
+    "frontRules": ""
+  },
+  "cover_letter": {
+    "title": "Cover Letter",
+    "formType": "textArea",
+    "showType": "text",
+    "showInForm": true,
+    "showInIndex": false,
+    "showInView": true,
+    "requiredInForm": false,
+    "widthInForm": null,
+    "displayRule": "",
+    "textAreaRows": 3,
+    "indexClasses": null,
+    "backRules": "",
+    "frontRules": ""
+  },
+  "attachment": {
+    "title": "Attachment",
+    "formType": "file",
+    "showType": "file",
+    "showInForm": true,
+    "showInIndex": true,
+    "showInView": true,
+    "requiredInForm": false,
+    "widthInForm": null,
+    "displayRule": "Max 5 MB",
+    "textAreaRows": null,
+    "indexClasses": "no_orderable",
+    "backRules": "",
+    "frontRules": ""
+  },
+  "like_working": {
+    "title": "Does he/she like working?",
+    "formType": "radio",
+    "showType": "text",
+    "showInForm": true,
+    "showInIndex": true,
+    "showInView": true,
+    "requiredInForm": false,
+    "widthInForm": null,
+    "displayRule": null,
+    "textAreaRows": null,
+    "indexClasses": "exportable",
+    "radioButtonsInForm": [
+      {
+        "title": "Yes",
+        "value": "1"
+      },
+      {
+        "title": "No",
+        "value": "0"
+      }
+    ],
+    "backRules": null,
+    "frontRules": ""
+  },
+  "ip_address": {
+    "title": "IP Address",
+    "formType": "text",
+    "showType": "text",
+    "showInForm": true,
+    "showInIndex": true,
+    "showInView": true,
+    "requiredInForm": false,
+    "widthInForm": null,
+    "displayRule": null,
+    "textAreaRows": null,
+    "indexClasses": "exportable",
+    "backRules": "",
+    "frontRules": ""
+  }
+}
